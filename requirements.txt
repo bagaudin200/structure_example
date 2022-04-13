@@ -1,2 +1,5 @@
 pyTelegramBotAPI==4.4.0
 python-dotenv==0.19.2
+decouple~=0.0.7
+arrow~=1.2.2
+requests~=2.27.1
